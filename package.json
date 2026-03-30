@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cypress": "^15.13.0"
+  },
+  "scripts": {
+    "open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.4.0"
+  }
+}
